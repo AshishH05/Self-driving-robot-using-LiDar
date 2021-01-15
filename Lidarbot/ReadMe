@@ -1,0 +1,5 @@
+
+// The references used for the the RPLidar are given here - http://www.slamtec.com/en/Support#rplidar-a-series
+
+// For the Lidar code I have made changes in the file /sdk/app/ultra_simple/main.cpp 
+// This file writes to a fifo created by testingpipe.c and testingpipe.c reads from this fifo 
